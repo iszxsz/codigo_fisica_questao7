@@ -1,3 +1,10 @@
+/* 
+CRIADORES: GRUPO 7
+ISABELA FERREIRA 
+STELLA MARIS 
+DAVI ASSUNÇÃO
+
+PROFESSOR SIDÃO - INF2A */
 import java.util.Scanner;
 
 class Equacao{
