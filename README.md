@@ -1,12 +1,12 @@
 README 
 
 FEITO POR:
-ISABELA FERREIRA FLORENCIO DE ABREU 
-STELLA MARIS MOREIRA MADUREIRA
-DAVI ASSUNÇÃO DOS SANTOS 
-INF2A
+ISABELA FERREIRA FLORENCIO DE ABREU; 
+STELLA MARIS MOREIRA MADUREIRA; 
+DAVI ASSUNÇÃO DOS SANTOS;  
+--- INF2A ---
 
-LINK PARA O COMPILADOR ONDE É POSSIVEL RODAR O CÓDIGO E EXECUTAR O PROGRAMA
+LINK PARA O COMPILADOR ONDE É POSSIVEL RODAR O CÓDIGO E EXECUTAR O PROGRAMA:  
 https://replit.com/join/xkrisfuuxk-isabelaflorenci
 
 O compilador é bem intuítivo, basta clicar no "Run" (que está na parte superior, de cor verde) e esperar o console(que fica à direita) mostrar a mensagem 
