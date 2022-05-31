@@ -1,2 +1,3 @@
 # codigo_fisica_questao7
-Código para resolução do EXERCÍCIO 7 de física
+Código para resolução feito pelo grupo: ISABELA FERREIRA, DAVI ASSUNÇÃO e STELLA MARIS
+
